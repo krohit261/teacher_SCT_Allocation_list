@@ -1,0 +1,24 @@
+{
+  "name": "teacher_sct_allocation_list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krohit261/teacher_SCT_Allocation_list.git"
+  },
+  "author": "surajkumar-sk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krohit261/teacher_SCT_Allocation_list/issues"
+  },
+  "homepage": "https://github.com/krohit261/teacher_SCT_Allocation_list#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "path": "^0.12.7"
+  }
+}
